@@ -7,9 +7,7 @@ namespace SnakesLadders
     {
         static void Main(string[] args)
         {
-            int numPlayers = 0;
-
-            
+            int numPlayers = 0;            
             
             while (numPlayers == 0)
             {
